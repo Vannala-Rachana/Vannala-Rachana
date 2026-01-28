@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-Full stack Developer | Turning ideas into something impactful<br><br>🚀 About Me<br><br>👩🏻‍💻I'm a passionate Full Stack developer currently working at Banner Management Consulting in Lexington,KY.<br><br>👩🏻‍🎓I hold a Masters degree in Information Technology from University of Cincinnati.<br>
+Full stack Developer | Turning ideas into something impactful<br><br>🚀 About Me<br><br>👩🏻‍💻I'm a passionate Full Stack developer currently working at Banner Management Consulting in Lexington,KY.<br><br>👩🏻‍🎓I hold a Masters degree in Information Technology from University of Cincinnati.
 
 <br>💼 4+ years of proven experience in designing, developing, and deploying scalable web applications using React, Angular, JavaScript, TypeScript, Node.js, and cloud technologies like Azure, AWS, and GCP. 
 <br><br>Demonstrated expertise in building responsive user interfaces (UI) and enhancing user experience (UX),integrating RESTful APIs, and optimizing CI/CD pipelines to deliver high performing, maintainable, and user centric solutions. 
